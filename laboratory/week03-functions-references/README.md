@@ -36,6 +36,6 @@ Focus is placed on:
 ## Technologies
 
 * Language: C
-* Compiler: GCC / Code::Blocks / VS Code
+* Compiler: Code::Blocks 
 
 ---
