@@ -1,4 +1,12 @@
-#include <stdio.h>
+// Task 4
+// Given an integer (points), calculate bonus points based on the following rules:
+// - If the number is up to 100 (inclusive), bonus = 5
+// - If the number is greater than 100, bonus = 20% of the number
+// - If the number is greater than 1000, bonus = 10% of the number
+// Additional bonus:
+// - If the number is even → +1
+// - If the number ends in 5 → +2
+// Print the bonus and the total points (number + bonus).#include <stdio.h>
 
 int main()
 {
