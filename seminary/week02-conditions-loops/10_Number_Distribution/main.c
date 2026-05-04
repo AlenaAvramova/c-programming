@@ -1,4 +1,12 @@
-#include <stdio.h>
+// Task 10
+// Given n integers in the range [1…1000],
+// calculate the percentage of numbers in these ranges:
+// p1: < 200
+// p2: 200–399
+// p3: 400–599
+// p4: 600–799
+// p5: >= 800
+// Print all percentages.#include <stdio.h>
 
 int main()
 {
