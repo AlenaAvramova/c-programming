@@ -1,4 +1,10 @@
-#include <stdio.h>
+// Task 9
+// A vineyard of area X produces Y kg of grapes per square meter.
+// 40% of the grapes are used for wine.
+// 1 liter of wine requires 2.5 kg of grapes.
+// Desired wine amount is Z liters.
+// Calculate how much wine can be produced and whether it is enough.
+// If enough, divide the leftover equally among workers.#include <stdio.h>
 
 int main()
 {
