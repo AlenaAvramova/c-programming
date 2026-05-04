@@ -1,3 +1,8 @@
+// Task 11
+// Write a program that reads an integer n and draws a fortress
+// with width 2*n columns and height n rows.
+// The left and right towers are n/2 wide.
+// Print the fortress using ASCII characters as shown in the examples.
 #include <stdio.h>
 
 int main()
