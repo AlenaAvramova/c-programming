@@ -1,3 +1,5 @@
+// Task 3
+// Write a program that reads 3 numbers and prints whether they are equal (yes / no).
 #include <stdio.h>
 
 int main()
