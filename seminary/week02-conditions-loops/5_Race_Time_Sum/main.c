@@ -1,3 +1,9 @@
+// Task 5
+// Three athletes finish a race in a given number of seconds (1 to 50).
+// Read their times and calculate the total time.
+// Print the result in format minutes:seconds.
+// Seconds must always have two digits (leading zero if needed).
+
 #include <stdio.h>
 
 int main()
