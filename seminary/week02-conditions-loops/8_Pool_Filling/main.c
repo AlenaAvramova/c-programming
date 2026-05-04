@@ -1,4 +1,8 @@
-#include <stdio.h>
+// Task 8
+// A pool with volume V (cubic meters) is filled by two pipes.
+// Each pipe has a flow rate (liters per hour).
+// Both pipes are opened and the worker leaves for N hours.
+// Write a program that prints the pool status when the worker returns.#include <stdio.h>
 
 int main()
 {
