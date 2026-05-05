@@ -1,6 +1,6 @@
 # c-programming
 Weekly C programming exercises and university tasks (organized by weeks)
-# Week 05 – Arrays and Algorithms in C
+# Week 03 – Arrays and Algorithms in C
 
 ## Overview
 This repository contains solutions to Week 05 programming tasks in C.
