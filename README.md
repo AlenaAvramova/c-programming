@@ -22,40 +22,6 @@ Most exercises are self-solved for practice and revision purposes.
 
 ---
 
-# Repository Structure
-
-```text
-C-Programming/
-│
-├── laboratory/
-│   ├── week01-basics/
-│   ├── week02-logic-conditions-loops/
-│   ├── week-03-functions-references/
-│   ├── week04-strings-and-arrays/
-│   ├── week05-matrices/
-│   └── README.md
-│
-├── seminary/
-│   ├── week01-basics/
-│   ├── week02-conditions-loops/
-│   ├── week03-arrays-algorithms/
-│   ├── week04-advanced-arrays-and-matrices/
-│   └── README.md
-│
-└── exam-preparation/
-    ├── 01-course-system/
-    ├── 02-car-service/
-    ├── 03product-system/
-    ├── 04picture-gallery/
-    ├── 05icecream-system/
-    ├── 06-book-library/
-    ├── 07-medicine-system/
-    ├── 08-excursion-system/
-    └── 09-student-system/
-```
-
----
-
 # Quick Navigation
 
 ## Laboratory
