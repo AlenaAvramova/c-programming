@@ -25,30 +25,70 @@ Most exercises are self-solved for practice and revision purposes.
 # Repository Structure
 
 
+# Repository Structure
+
+```text
 C-Programming/
 │
-├── Laboratory/
-│   ├── Week-01/
-│   ├── Week-02/
-│   ├── Week-03/
-│   └── ...
+├── laboratory/
+│   ├── week01-basics/
+│   ├── week02-logic-conditions-loops/
+│   │   └── 01_number_checks/
+│   ├── week-03-functions-references/
+│   ├── week04-strings-and-arrays/
+│   ├── week05-matrices/
+│   └── README.md
 │
-├── Seminary/
-│   ├── Week-01/
-│   ├── Week-02/
-│   ├── Week-03/
-│   └── ...
+├── seminary/
+│   ├── week01-basics/
+│   ├── week02-conditions-loops/
+│   ├── week03-arrays-algorithms/
+│   ├── week04-advanced-arrays-and-matrices/
+│   └── README.md
 │
-└── Exam-Preparation/
-    ├── Course-System/
-    ├── Car-Service/
-    ├── Product-System/
-    ├── Picture-Gallery/
-    ├── IceCream-System/
-    ├── Book-Library/
-    ├── Medicine-System/
-    ├── Excursion-System/
-    └── Student-System/
+└── exam-preparation/
+    ├── course-system/
+    ├── car-service/
+    ├── product-system/
+    ├── picture-gallery/
+    ├── icecream-system/
+    ├── book-library/
+    ├── medicine-system/
+    ├── excursion-system/
+    └── student-system/
+```
+
+---
+
+# Quick Navigation
+
+## Laboratory
+- [Week 01 - Basics](./laboratory/week01-basics)
+- [Week 02 - Logic, Conditions & Loops](./laboratory/week02-logic-conditions-loops)
+- [Week 03 - Functions & References](./laboratory/week-03-functions-references)
+- [Week 04 - Strings & Arrays](./laboratory/week04-strings-and-arrays)
+- [Week 05 - Matrices](./laboratory/week05-matrices)
+
+---
+
+## Seminary
+- [Week 01 - Basics](./seminary/week01-basics)
+- [Week 02 - Conditions & Loops](./seminary/week02-conditions-loops)
+- [Week 03 - Arrays & Algorithms](./seminary/week03-arrays-algorithms)
+- [Week 04 - Advanced Arrays & Matrices](./seminary/week04-advanced-arrays-and-matrices)
+
+---
+
+## Exam Preparation Projects
+- [Course System](./exam-preparation/course-system)
+- [Car Service](./exam-preparation/car-service)
+- [Product System](./exam-preparation/product-system)
+- [Picture Gallery](./exam-preparation/picture-gallery)
+- [IceCream System](./exam-preparation/icecream-system)
+- [Book Library](./exam-preparation/book-library)
+- [Medicine System](./exam-preparation/medicine-system)
+- [Excursion System](./exam-preparation/excursion-system)
+- [Student System](./exam-preparation/student-system)
 
 ---
 
