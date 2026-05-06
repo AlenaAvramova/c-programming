@@ -24,16 +24,12 @@ Most exercises are self-solved for practice and revision purposes.
 
 # Repository Structure
 
-
-# Repository Structure
-
 ```text
 C-Programming/
 │
 ├── laboratory/
 │   ├── week01-basics/
 │   ├── week02-logic-conditions-loops/
-│   │   └── 01_number_checks/
 │   ├── week-03-functions-references/
 │   ├── week04-strings-and-arrays/
 │   ├── week05-matrices/
@@ -47,15 +43,15 @@ C-Programming/
 │   └── README.md
 │
 └── exam-preparation/
-    ├── course-system/
-    ├── car-service/
-    ├── product-system/
-    ├── picture-gallery/
-    ├── icecream-system/
-    ├── book-library/
-    ├── medicine-system/
-    ├── excursion-system/
-    └── student-system/
+    ├── 01-course-system/
+    ├── 02-car-service/
+    ├── 03product-system/
+    ├── 04picture-gallery/
+    ├── 05icecream-system/
+    ├── 06-book-library/
+    ├── 07-medicine-system/
+    ├── 08-excursion-system/
+    └── 09-student-system/
 ```
 
 ---
@@ -80,15 +76,15 @@ C-Programming/
 ---
 
 ## Exam Preparation Projects
-- [Course System](./exam-preparation/course-system)
-- [Car Service](./exam-preparation/car-service)
-- [Product System](./exam-preparation/product-system)
-- [Picture Gallery](./exam-preparation/picture-gallery)
-- [IceCream System](./exam-preparation/icecream-system)
-- [Book Library](./exam-preparation/book-library)
-- [Medicine System](./exam-preparation/medicine-system)
-- [Excursion System](./exam-preparation/excursion-system)
-- [Student System](./exam-preparation/student-system)
+- [Course System](./exam-preparation/01-course-system)
+- [Car Service](./exam-preparation/02-car-service)
+- [Product System](./exam-preparation/03-product-system)
+- [Picture Gallery](./exam-preparation/04-picture-gallery)
+- [IceCream System](./exam-preparation/05-icecream-system)
+- [Book Library](./exam-preparation/06-book-library)
+- [Medicine System](./exam-preparation/07-medicine-system)
+- [Excursion System](./exam-preparation/08-excursion-system)
+- [Student System](./exam-preparation/09-student-system)
 
 ---
 
